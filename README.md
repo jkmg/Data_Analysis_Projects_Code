@@ -1,1 +1,1 @@
-## Prediction of Heart Disease using the dataset heart.csv of this repository
+## Prediction of Heart Disease using the dataset _heart.csv_ of this repository
